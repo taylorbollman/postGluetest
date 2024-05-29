@@ -1,0 +1,45 @@
+/.bashrc
+/.conda
+/.dotnet
+# /.idea
+/.ipython
+# /.lightning_studio
+# /.lightningignore
+/.netrc
+/.nv
+/.pytest_cache
+/.triton
+/.vscode
+/.wget-hsts
+/.zcompdump
+/.zsh_history
+/.zshrc
+/config_tree.txt
+/logs
+/run.log
+/.condarc
+/.config
+/.hushlogin
+/.gitconfig
+/.jupyter
+/.docker
+/.local
+/.oh-my-zsh
+/.profile
+/.ssh
+/.sudo_as_admin_successful
+lightning_logs
+/wandb
+/.cache
+/project_folder/packages/apex/  
+vscode-remote:
+vscode-remote://
+project_folder/packages/apex
+/project_folder/packages/apex/
+/project_folder/packages/apex
+project_folder/packages/apex/
+.vscode-server/data/logs/
+.vscode-server
+.vscode-server/
+checkpoints/
+/checkpoints/
